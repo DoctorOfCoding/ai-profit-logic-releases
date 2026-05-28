@@ -1,0 +1,11 @@
+{
+  "version": "1.0.4",
+  "notes": "Version 1.0.4 update",
+  "pub_date": "2026-05-28T13:32:45+05:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTA4M2NsSlBWVzN0a1dxK0lKY2UrZCt4M0xIMXpCV3ZoR0t5bnJNY1VqS2xkWHZtZEMyNDlkRDFPSHFGQ1locXZna1BzOXRkR3F4UHVMMktCMmJJMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk3OTMzCWZpbGU6YWktcHJvZml0bG9naWMtcG9zXzEuMC40X3g2NC1zZXR1cC5uc2lzLnppcApDcnZ6WkgwMnM0S3NQSGtyRk5hc2RjUU8rSXFIcTBBamQ0Rzd2TUNlT1ovTDR5YjVoZXplV3pWUno4NjJjWW9jV2VuSEkreDVOdXR6aU5oLzJyeU5Edz09Cg==",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.0.4/ai-profitlogic-pos_1.0.4_x64-setup.nsis.zip"
+    }
+  }
+}

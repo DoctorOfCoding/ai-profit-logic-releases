@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8",
+  "notes": "Version 0.1.8 update",
+  "pub_date": "2026-05-28T13:32:45+05:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXNjNzZad3AvNlpEK3JVbjZWY2FPV0NZSHdSU1NMMUFxRjJkWlhyRFA1U1NaOGlGdTBEMlhFWk5NaXROT244emhUeVg2MjNPZ2syRkF5RGpFUnBvRjRRaU5QZ2lDd3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzkwNjQ3CWZpbGU6YWktcHJvZml0LWxvZ2ljLWJiYjJfMC4xLjhfeDY0LXNldHVwLm5zaXMuemlwCndseXZWQ3VXQkFDU1RYcUJKcjhwWWxLSlhNZ2R1S2FnSUhydml6dHMxeWtuNDFSZGZkMmpHTkMzL0Q3Q1dhcWl2K0xiY3FZVk9qQ0NVaWxPajNWTURRPT0K",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v0.1.8/ai-profit-logic-bbb2_0.1.8_x64-setup.nsis.zip"
+    }
+  }
+}
