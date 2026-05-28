@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "notes": "Version 1.1.5 update",
+  "version": "1.1.6",
+  "notes": "Version 1.1.6 update",
   "pub_date": "2026-05-28T13:32:45+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUZQbGNlRVEzR2dYZHhKMDl3bFBSNWtlTGhJQ3dva0plRk9sZjJxQW5rdWwvZzFZaVlDK2ZhNDNvSlhJSzhsR1lISHRtU2x5cXFhRWVReEtxdmo1RkpPVEllY3h1bEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzkzNDgxCWZpbGU6bW9iaWxlX3N0b3JlXzEuMS41X3g2NC1zZXR1cC5uc2lzLnppcApYbktOeS8zSmdHQTJlRW9VM0pseklUWjY3VVBwelk4MDk4U1d0NzYxcjU5eitzQ3NmN24zYXkvL3hEQngvY0d5YmcxdXRSam54NEE2YUJHc1JyeTBCZz09Cg==",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.5/mobile_store_1.1.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTJaU25tQ0pEeFlOQ2RmSWtUNjRQNjdSUkc1RDBXYkViWjJCWWptUWNRNUd1Yk5WY2lxUTZiaE94Y1N1N1VQdE9CYXlHV0NQQTFQSS9qeFROdlFLTFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTc4NjQwCWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjZfeDY0LXNldHVwLm5zaXMuemlwCkhJTkdrekFhbmhLYzhrcFZTTXVGK2o3THZZNzh3UjdVb3E4SjhwVHBvQ28rSWdaVzh6Q3ozT3UyQ04xWHdYZUlNUzY4YWEwZVBEZlVyZEFKQkNicUFnPT0K",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.6/AI-ProfitLogic_1.1.6_x64-setup.nsis.zip"
     }
   }
 }
