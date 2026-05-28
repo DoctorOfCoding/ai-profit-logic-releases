@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "notes": "Version 1.1.7 update",
-  "pub_date": "2026-05-28T20:10:00+05:00",
+  "version": "1.1.8",
+  "notes": "Version 1.1.8 update",
+  "pub_date": "2026-05-28T20:30:00+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTRkT2hnb1VmcEZmb0g0dHhRajJ6ZW1UOVR6cW1wSmY0ZkVrZGp0SXpHczFxTTRyMkJrMlRyQVFFZXFSMGR3c3ZSclZabE93VG1vTmw0UXpYRFJrd1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg4MzkxCWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjdfeDY0LXNldHVwLm5zaXMuemlwCnRodFFVa1VmaEp2K3d0bmIyY3k1bitzeHVSWW83ZU9WaTJCZURFNHlLUDJPaGJkQ3VKRDArVlZBdzMwVW5BK09tUkhUTGtnR05aU083RDFtZ2RDcURBPT0K",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.7/AI-ProfitLogic_1.1.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTF5dS8xc3BPT3J0eUVoSlZXMXprQS9xWTM0a3lMeUxXeGtod1EyL1hmU1daKzVjMm1yZzBlNThLdWEwOEF4czVialVrNml3VzVWRWkvWEd5QXFOR1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgwNDA2CWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjhfeDY0LXNldHVwLm5zaXMuemlwCnlQN1dPVG8vRVJpWW9SU1oyemxoUk9yMnpXc2FNZm9IRFQ4S2h3TUFWdVNSQTBPOFpPbFhBbW93MmhwWjlGUng4UkNZOXhLc3FEV0VaT1NlK1UyTEJ3PT0K",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.8/AI-ProfitLogic_1.1.8_x64-setup.nsis.zip"
     }
   }
 }
