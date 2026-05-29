@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Version 1.0.4 update",
-  "pub_date": "2026-05-28T13:32:45+05:00",
+  "version": "1.0.5",
+  "notes": "Version 1.0.5 update: Custom icons, version sync, and Google Drive OAuth backup integration.",
+  "pub_date": "2026-05-29T10:16:12+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTA4M2NsSlBWVzN0a1dxK0lKY2UrZCt4M0xIMXpCV3ZoR0t5bnJNY1VqS2xkWHZtZEMyNDlkRDFPSHFGQ1locXZna1BzOXRkR3F4UHVMMktCMmJJMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk3OTMzCWZpbGU6YWktcHJvZml0bG9naWMtcG9zXzEuMC40X3g2NC1zZXR1cC5uc2lzLnppcApDcnZ6WkgwMnM0S3NQSGtyRk5hc2RjUU8rSXFIcTBBamQ0Rzd2TUNlT1ovTDR5YjVoZXplV3pWUno4NjJjWW9jV2VuSEkreDVOdXR6aU5oLzJyeU5Edz09Cg==",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.0.4/ai-profitlogic-pos_1.0.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSSt5VExuVW80YTAzUURwU29sL09TZE5QaFdhQ2hzUGFmU3o1S2FIUUx3ZjlKYldHVmlHU21iM3JxMHVYV0tNRDJac3lBU1phOXVoMnh5b2RvUWswNFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDMxNjk5CWZpbGU6YWktcHJvZml0bG9naWMtcG9zXzEuMC41X3g2NC1zZXR1cC5uc2lzLnppcApRYzZZdEpmeE1vRTJnZEUxMXNselptdDVBZ0h2THZaMk5lSmxjblljY05lTDA1N3NHbzhacjdiWkNJWU1velNudjZTUWFYMktTS3ZnU01OeUlYL2JEUT09Cg==",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.0.5/ai-profitlogic-pos_1.0.5_x64-setup.nsis.zip"
     }
   }
 }
