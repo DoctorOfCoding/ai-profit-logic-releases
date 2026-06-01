@@ -1,11 +1,11 @@
 {
-  "version": "1.1.10",
-  "notes": "Version 1.1.10 updated",
-  "pub_date": "2026-06-01T14:00:00+05:00",
+  "version": "1.1.11",
+  "notes": "Version 1.1.11 update - Fixed provisioning key redirect loop on login",
+  "pub_date": "2026-06-01T16:20:00+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUZQbGNlRVEzR21CWGxPMUJ5QTM5RlgzY09CMzhHQkFON3pYcEM1bGJlVGZURURJamFpdFpaMm15Q3ZaYUQyaHBrNW9Rc2NNTUtyekIxQlJFakxYcDRYdExoOWJYbndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjk1MjUyCWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjEwX3g2NC1zZXR1cC5uc2lzLnppcApMakVQYlUwYjdVZHo3aitiWnF6cFFpRHo5U0RFMlU0VzRiWWdTVXBvcWFVNGxpbWwxamw5R2oybHhQNlBlNFROeHVUZmt6OXVYWlZFWFhHRmwvWWxBdz09Cg==",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.10/AI-ProfitLogic_1.1.10_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTQ0VUJ5bndmaEd1OWtNRGRrQjBqa2YrcUQyTFZPdW55V2R2V0NNYjNPa0dwNkg4OGd4dFNHYmk5TU1wVlJINVA4cndZNUhYSU84ZHoyRHh3ZmQ0RGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzEyOTg4CWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjExX3g2NC1zZXR1cC5uc2lzLnppcApWYWVhUE13Y0JBd0xhUVFWRDhCZStKTEVqUS9RVTZNbVFQdUEvQmFwdURtM0dTemdHcGp6NFhhdzljR0hiSjloU0R5MXRCTG9LWXJNcnA0eERkRDdEUT09Cg==",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.11/AI-ProfitLogic_1.1.11_x64-setup.nsis.zip"
     }
   }
 }
