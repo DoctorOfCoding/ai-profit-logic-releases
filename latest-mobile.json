@@ -1,11 +1,11 @@
 {
-  "version": "1.1.9",
-  "notes": "Version 1.1.9 update - Repair profit tracking & expenses sync",
-  "pub_date": "2026-05-28T23:30:00+05:00",
+  "version": "1.1.10",
+  "notes": "Version 1.1.10 update - Permanent expense recovery and cash drawer negative fix",
+  "pub_date": "2026-06-01T14:00:00+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSTlqME81UU9haWRKQ0E4UG1iZHNwMHJJczZRM0hHeXphendaV3huazZMTDZxTmR6czZVTmJhcStXQmZVbnlYNDNobUZudUQ2SGdKdnRiSmtlOFJJV1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTkyMDY4CWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjlfeDY0LXNldHVwLm5zaXMuemlwCklsNStrZ1J3Y2NGVmEycEtMb1BIdEVobFV6b1c3VnBLcnh2OHYxNTNHTzhBMUticnEwQkNzcEVCSFAvK3d4VjNmNGtxNnlqdW5BQ2piMUNwamFrUEFnPT0K",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.9/AI-ProfitLogic_1.1.9_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUZQbGNlRVEzR21CWGxPMUJ5QTM5RlgzY09CMzhHQkFON3pYcEM1bGJlVGZURURJamFpdFpaMm15Q3ZaYUQyaHBrNW9Rc2NNTUtyekIxQlJFakxYcDRYdExoOWJYbndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjk1MjUyCWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjEwX3g2NC1zZXR1cC5uc2lzLnppcApMakVQYlUwYjdVZHo3aitiWnF6cFFpRHo5U0RFMlU0VzRiWWdTVXBvcWFVNGxpbWwxamw5R2oybHhQNlBlNFROeHVUZmt6OXVYWlZFWFhHRmwvWWxBdz09Cg==",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.10/AI-ProfitLogic_1.1.10_x64-setup.nsis.zip"
     }
   }
 }

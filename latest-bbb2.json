@@ -1,11 +1,11 @@
 {
-  "version": "1.1.10",
-  "notes": "Version 1.1.10 update expenses sync",
-  "pub_date": "2026-05-31T23:30:00+05:00",
+  "version": "0.1.9",
+  "notes": "Version 0.1.9 update: Fixed updater endpoint to use jsdelivr for proper json content-type.",
+  "pub_date": "2026-05-29T11:15:00+05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUZQbGNlRVEzR29tZWNYd3htTTloSEg4TG41Z1lXK2U3eExJei9kTVF6TkVxdi9GbFcweFdPTnBoK1NJd1ZFVnl2Y21PbXF5R1ozWjVJbHVLUWNwb2lQdzdjVjFlMWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjkyOTU1CWZpbGU6QUktUHJvZml0TG9naWNfMS4xLjEwX3g2NC1zZXR1cC5uc2lzLnppcAovcEwvazR2a3NjM0EvYjZzTjhFWkJVZzd0UzFocXhsbEJTNkdwY3lwcU10RzJQUGd2L0wvSityR0JaVXhkNHdmS1FYNzJKdDUxempGblZpSFhvcjZDdz09Cg==",
-      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v1.1.10/AI-ProfitLogic_1.1.10_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSG0wdXhRNkZsSXdHanBYNkFBV29naG1Qb3Q4SkxYeDl2TGFhWWN3YkEvbGFDQTErQVI2ZkZIcDFicTBsUUwrVThBR0k2alQzYjU4Q3N0N002NW5hQjlwZ3pWczNXd0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDM1MjQ2CWZpbGU6YWktcHJvZml0LWxvZ2ljLWJiYjJfMC4xLjlfeDY0LXNldHVwLm5zaXMuemlwCnFVV3VCQnFnNTM0amVQTlcxK2lRWmNRTEVXWVBMb3cvTFBCWVhzM01NbVh5cys3SFFrczNpZTVmU0lDeWNLOVhaeXhsQ2NwL0c4bEVOTWtJL2w1a0N3PT0K",
+      "url": "https://github.com/DoctorOfCoding/ai-profit-logic-releases/releases/download/v0.1.9/ai-profit-logic-bbb2_0.1.9_x64-setup.nsis.zip"
     }
   }
 }
